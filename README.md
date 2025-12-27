@@ -53,6 +53,7 @@ Please star the repo to support me!
 ## Credits
 
 Made By [Payson](https://github.com/paysonism)
+Updated by [Ellii](https://github.com/moonlightrblx)
 
 Contact me on Discord: [@payson_.](https://discord.com/users/1214355385457188926)
 Join my server: [discord.gg/getneptune](https://discord.gg/getneptune)
